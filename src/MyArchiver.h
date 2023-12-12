@@ -1,3 +1,4 @@
+#include "algorithm"
 #include "BitBor.h"
 #include "BitStream.h"
 #include <queue>

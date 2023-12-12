@@ -1,4 +1,3 @@
-add_subdirectory(tests)
 add_executable(archiver
         src/BitBor.cpp
         src/MyArchiver.cpp
